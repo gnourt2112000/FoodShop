@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FoodShop/static/css/main.d049e4f2.chunk.css",
+    "main.js": "/FoodShop/static/js/main.94df8e19.chunk.js",
+    "main.js.map": "/FoodShop/static/js/main.94df8e19.chunk.js.map",
+    "runtime-main.js": "/FoodShop/static/js/runtime-main.96f3aee4.js",
+    "runtime-main.js.map": "/FoodShop/static/js/runtime-main.96f3aee4.js.map",
+    "static/css/2.ab4d0997.chunk.css": "/FoodShop/static/css/2.ab4d0997.chunk.css",
+    "static/js/2.73e332e5.chunk.js": "/FoodShop/static/js/2.73e332e5.chunk.js",
+    "static/js/2.73e332e5.chunk.js.map": "/FoodShop/static/js/2.73e332e5.chunk.js.map",
+    "static/js/3.ff2ecc86.chunk.js": "/FoodShop/static/js/3.ff2ecc86.chunk.js",
+    "static/js/3.ff2ecc86.chunk.js.map": "/FoodShop/static/js/3.ff2ecc86.chunk.js.map",
+    "index.html": "/FoodShop/index.html",
+    "static/css/2.ab4d0997.chunk.css.map": "/FoodShop/static/css/2.ab4d0997.chunk.css.map",
+    "static/css/main.d049e4f2.chunk.css.map": "/FoodShop/static/css/main.d049e4f2.chunk.css.map",
+    "static/js/2.73e332e5.chunk.js.LICENSE.txt": "/FoodShop/static/js/2.73e332e5.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/FoodShop/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96f3aee4.js",
+    "static/css/2.ab4d0997.chunk.css",
+    "static/js/2.73e332e5.chunk.js",
+    "static/css/main.d049e4f2.chunk.css",
+    "static/js/main.94df8e19.chunk.js"
+  ]
+}
