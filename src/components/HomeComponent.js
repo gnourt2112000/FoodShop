@@ -17,7 +17,7 @@ function SlideCenter(){
                                         <div>Savouries and sweets for the gourmet in all of us</div>
                                     </div>
                                     <div className="col-md-5 d-flex align-items-center justify-content-center border-right-dark">
-                                        <img src="../assets/images/pig.png" className="img-fluid" alt="pig"></img>
+                                        <img src="FoodShop/assets/images/Pig.png" className="img-fluid" alt="pig"></img>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@ function SlideCenter(){
                                         <div className="text-center">Savouries and sweets for the gourmet in all of us</div>
                                     </div>
                                     <div className="col-12 d-flex align-items-center justify-content-center">
-                                        <img src="../assets/images/pig.png" className="img-fluid" alt="pig"></img>
+                                        <img src="FoodShop/assets/images/Pig.png" className="img-fluid" alt="pig"></img>
                                     </div>
                                 </div>
                             </div>
@@ -198,17 +198,17 @@ class Home extends Component {
                 <div className="carousel slide">
                     <div className="carousel-inner">
                         <div className={this.state.classSlide1}>
-                            <img src="../assets/images/fomat.png" className={this.state.imageWidth} alt="fomat"/>
+                            <img src="FoodShop/assets/images/Fomat.png" className={this.state.imageWidth} alt="fomat"/>
                             
                         </div>
                         <div className={this.state.classSlide2}>
-                            <img src="../assets/images/meat.png" className={this.state.imageWidth} alt="meat"/>
+                            <img src="FoodShop/assets/images/Meat.png" className={this.state.imageWidth} alt="meat"/>
                         </div>
                         <div className={this.state.classSlide3}>
-                            <img src="../assets/images/meat1.png" className={this.state.imageWidth} alt="meat1"/>
+                            <img src="FoodShop/assets/images/Meat1.png" className={this.state.imageWidth} alt="meat1"/>
                         </div>
                         <div className={this.state.classSlide4}>
-                            <img src="../assets/images/asparagus.png" className={this.state.imageWidth} alt="asparagus"/>
+                            <img src="FoodShop/assets/images/Asparagus.png" className={this.state.imageWidth} alt="asparagus"/>
                         </div>
                     </div>
                     <button onClick={this.toggleSlidePrev} className="carousel-control-prev ms-0" type="button" >
