@@ -2,7 +2,7 @@ export const PRODUCTS =[
     {
         id:0,
         name:"FRENCH BRIE CHEESE",
-        image:"FoodShop/assets/images/Frenchcheese.png",
+        image:"/FoodShop/assets/images/Frenchcheese.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:6.99,
@@ -16,7 +16,7 @@ export const PRODUCTS =[
     {
         id:1,
         name:"CHEESE 1",
-        image:"FoodShop/assets/images/Cheese1.png",
+        image:"/FoodShop/assets/images/Cheese1.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:8.99,
@@ -30,7 +30,7 @@ export const PRODUCTS =[
     {
         id:2,
         name:"CHEESE 2",
-        image:"FoodShop/assets/images/Cheese2.png",
+        image:"/FoodShop/assets/images/Cheese2.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:6.99,
@@ -44,7 +44,7 @@ export const PRODUCTS =[
     {
         id:3,
         name:"CHEESE 3",
-        image:"FoodShop/assets/images/Cheese3.png",
+        image:"/FoodShop/assets/images/Cheese3.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:9.99,
@@ -58,7 +58,7 @@ export const PRODUCTS =[
     {
         id:4,
         name:"SMOKED VIRGINIA BACON",
-        image:"FoodShop/assets/images/Smokebacon.png",
+        image:"/FoodShop/assets/images/Smokebacon.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:12.99,
@@ -72,7 +72,7 @@ export const PRODUCTS =[
     {
         id:5,
         name:"MEAT 1",
-        image:"FoodShop/assets/images/Meat1.png",
+        image:"/FoodShop/assets/images/Meat1.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:22.99,
@@ -86,7 +86,7 @@ export const PRODUCTS =[
     {
         id:6,
         name:"MEAT 2",
-        image:"FoodShop/assets/images/Meat2.png",
+        image:"/FoodShop/assets/images/Meat2.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:12.99,
@@ -100,7 +100,7 @@ export const PRODUCTS =[
     {
         id:7,
         name:"MEAT 3",
-        image:"FoodShop/assets/images/Meat3.png",
+        image:"/FoodShop/assets/images/Meat3.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:6.74,
@@ -114,7 +114,7 @@ export const PRODUCTS =[
     {
         id:8,
         name:"GREEK KALAMATA OLIVES",
-        image:"FoodShop/assets/images/Greekolives.png",
+        image:"/FoodShop/assets/images/Greekolives.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:8.99,
@@ -128,7 +128,7 @@ export const PRODUCTS =[
     {
         id:9,
         name:"PROVISION 1",
-        image:"FoodShop/assets/images/Provision1.png",
+        image:"/FoodShop/assets/images/Provision1.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:10.99,
@@ -142,7 +142,7 @@ export const PRODUCTS =[
     {
         id:10,
         name:"PROVISION 2",
-        image:"FoodShop/assets/images/Provision2.png",
+        image:"/FoodShop/assets/images/Provision2.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:9.99,
@@ -156,7 +156,7 @@ export const PRODUCTS =[
     {
         id:11,
         name:"PROVISION 3",
-        image:"FoodShop/assets/images/Provision3.png",
+        image:"/FoodShop/assets/images/Provision3.png",
         info:"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item. Buyers like to know what they’re getting before they purchase, so give them as much information as possible so they can buy with confidence and certainty.",
         description:"I'm a product description. I’m a great place to include more information about your product. Buyers like to know what they’re getting before they purchase.",
         price:22.99,
